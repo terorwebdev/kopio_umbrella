@@ -4,3 +4,6 @@
 [submodule "apps/assets"]
 	path = apps/assets
 	url = https://github.com/terorwebdev/kopio_assets.git
+[submodule "apps/kopio"]
+	path = apps/kopio
+	url = https://github.com/terorwebdev/kopio_web.git
